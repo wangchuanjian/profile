@@ -61,7 +61,7 @@
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.exception.name=e
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_compact_if=16
 /instance/org.eclipse.jdt.ui/sp_cleanup.add_missing_nls_tags=false
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enableddasdasasasasasasasasasasasasasasasasas
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_type_arguments=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_union_type_in_multicatch=16
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_semicolon_in_try_resources=do not insert
